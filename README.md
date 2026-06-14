@@ -1,2 +1,25 @@
-# 252859e75c02bf27-church-ministry-resource-sched
-Professional resource scheduling and booking system built for church ministry operations and growth.
+# Church Ministry Resource Scheduling and Booking System
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard layout | Yes | Yes |
+| Premium components | - | Yes |
+| Custom styling | - | Yes |
+| Support included | - | Yes |
+| Regular updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/8x214n4eP5wg4pqbzScZc3J)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/8x214n4eP5wg4pqbzScZc3J)
+
